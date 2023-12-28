@@ -13,7 +13,7 @@ def text_to_speech_from_file(file_path, output_filename):
 
 
 # File paths
-input_file_path = 'Exploratory_Data_Analysis_Guide_for_Beginners.txt'  # Replace with your file path
+input_file_path = 'data/Exploratory_Data_Analysis_Guide_for_Beginners.txt'  # Replace with your file path
 output_filename = 'output.mp3'
 
 # Convert and save the text to speech
