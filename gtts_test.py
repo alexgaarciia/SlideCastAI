@@ -15,7 +15,7 @@ def text_to_speech_from_file(file_path):
 
 # Example
 # STEP 1: Indicate the file path
-input_file_path = 'data/Intro_to_Machine_Learning_Explanation.txt'
+input_file_path = ''
 
 # STEP 2: Convert and save the text to speech
 text_to_speech_from_file(input_file_path)
