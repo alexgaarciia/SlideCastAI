@@ -18,8 +18,6 @@ In order to carry out this project, we may follow these steps:
 4. Compare results.
 
 ### Used Text-To-Speech systems
-In order to carry out this project, we used two libraries (`gTTS`, `pyttsx3`) and a plugin (`TTS11labs`):
+In order to carry out this project, we used two libraries (`gTTS`, `pyttsx3`):
 - `gTTS`: It is a Python library that interfaces with Google Translate's text-to-speech API. It's a simple and easy-to-use tool that converts text into spoken words.
 - `pyttsx3`: This is a text-to-speech conversion library in Python that works offline. It interacts with native speech engines on different operating systems.
-- `TTS11labs`: Constitutes a plugin provided by OpenAI used to convert text to speech. It is characterized by its variety of voices and quality. It may be the correct option in cases where high-quality voice output is needed.
-
