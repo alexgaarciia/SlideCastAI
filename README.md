@@ -27,8 +27,8 @@ In order to carry out this project, we may follow these steps:
 
 However, we may also want to test how specific we must be in order to reach an "ideal" explanation. To do so, several promtps will be tested out, each being more specific than the previous one.
 
-### Promtp #1:
-- Prompt:
+### Prompts 
+- Prompt #1:
 ```ruby
 I need you to inspect the file that I submit you. I am going to give you some instructions that I want you to follow strictly.
 The main goal is to generate a txt file explaining in a dynamic way the slides/lectures I give you.
@@ -38,4 +38,46 @@ Instructions: Generate a text that explains the topic. Make sure you:
 2. Explain very easily each of the slides.
 3. Give examples to explain everything.
 4. Make it dynamic.
+```
+
+- Prompt #2:
+```ruby
+I need you to inspect the file that I submit you. I am going to give you some instructions that I want you to follow strictly. 
+
+Goal: The main goal is to generate a txt file explaining in a dynamic way the slides/lectures I give you.
+
+Instructions:
+1. DO NOT USE POINTS. Use paragraphs talking as if you were a professor. 
+2. DO NOT SUMMARIZE. Explain all of the slides.
+3. Explain each of the slides with examples.
+4. Make it dynamic.
+```
+
+- Prompt #3:
+```ruby
+I need you to inspect the file that I submit you. I am going to give you some instructions that I want you to follow strictly. 
+
+Goal: The main goal is to generate a txt file explaining in a dynamic way the slides/lectures I give you.
+
+Instructions:
+1. DO NOT USE POINTS. Use paragraphs talking as if you were a professor. 
+2. DO NOT SUMMARIZE. Explain all of the slides.
+3. Do not include titles to introduce topics. Say things a person would say when introducing parts of a presentation (Okay, so now I am going to talk about..., We will continue with...).
+4. Explain each of the slides with examples.
+5. Make it dynamic.
+```
+
+- Prompt #4:
+```ruby
+I need you to inspect the file that I submit you. I am going to give you some instructions that I want you to follow strictly. 
+
+Goal: The main goal is to generate a txt file explaining in a dynamic way the slides/lectures I give you.
+
+Instructions:
+1. DO NOT USE POINTS. Use paragraphs talking as if you were a professor. 
+2. DO NOT SUMMARIZE. Explain all of the slides.
+3. Do not include titles to introduce topics. Say things a person would say when introducing parts of a presentation (Okay, so now I am going to talk about..., We will continue with...).
+4. Explain each of the slides with examples.
+5. Make it dynamic.
+6. Include real-world applications to prove the usefulness of what you are explaining.
 ```
