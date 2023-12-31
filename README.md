@@ -107,5 +107,13 @@ After uploading a lecture, we would normally expect ChatGPT to give us a link to
 
 Afterwards, we would test these file on the TTS systems that we talked about above. Nonetheless, before that, it would be interesting to compare all of the prompts that we tried, all the way from `Prompt #1` to `Prompt #4`. 
 
+#### Prompt comparison
+Let's start with [**Prompt #1**](https://github.com/alexgaarciia/SlideCastAI/tree/main/data/Prompt%20%231), where we provided ChatGPT several things. First off, we specified that some instructios must be followed strictly and that we want as an output a txt file that explains some slides. Then, four general instructions were provided: (1) DO NOT USE POINTS (with this we are trying to make the explanations more real), (2) Explain very easily each of the slides (this instruction could make the podcast to not feel very heavy; this may be useful with advanced topics), (3) Give examples to explain everything (following the structure of a regular class, examples are provided to make students undertand concepts better), and (4) Make it dynamic.
+
+The difference with [**Prompt #2**]() is not huge, since the structure of the prompt changed a little bit a new instuction was included: DO NOT SUMMARIZE. With this, we wanted ChatGPT to not skip slides, since some high-yield information may be lost; we are ensuring that each of the slides (relevant or irrelevant) are checked.
+
+
+
+
 
 
