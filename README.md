@@ -123,3 +123,10 @@ Prompt #1      |  Prompt #2      | Prompt #3       | Prompt #4
 Summarized version of the lecture (does not go into too much technical depth). Explains well the basics and provides some examples.  | Contains more concepts from the slides (suitable for deeper understanding of the filed).  | More human-like instructions (feels closer to real lectures) | Adds a focus more practical applications 
 
 #### Comparison of TTS libraries/platforms
+
+
+
+
+
+
+
