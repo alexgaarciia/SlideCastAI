@@ -88,15 +88,24 @@ Instructions:
 
 ### Results
 Once we chose the lectures we wanted to turn into podcasts, we performed the following steps:
-1. Give ChatGPT a prompt and upload such documents.
+1. Give ChatGPT a prompt:
+<p align = "center">
+   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/initial_instructions.png" width = 600>
+</p>
 
+2. Upload a desired document:
+<p align = "center">
+   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/uploading_doc.png" width = 600>
+</p>
 
+After uploading a lecture, we would normally expect ChatGPT to give us a link to a **txt file**. These files can be found in the folder [data](https://github.com/alexgaarciia/SlideCastAI/tree/main/data).
 
+3. After finishing with all of the files on which we wanted to try a certain prompt, we would normally indicate ChatGPT that new instructions will be given:
+<p align = "center">
+   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/new_instructions.png" width = 600>
+</p>
 
-
-
-
-
+Afterwards, we would test these file on the TTS systems that we talked about above. Nonetheless, before that, it would be interesting to compare all of the prompts that we tried, all the way from `Prompt #1` to `Prompt #4`. 
 
 
 
