@@ -110,10 +110,17 @@ Afterwards, we would test these file on the TTS systems that we talked about abo
 #### Prompt comparison
 Let's start with [**Prompt #1**](https://github.com/alexgaarciia/SlideCastAI/tree/main/data/Prompt%20%231), where we provided ChatGPT several things. First off, we specified that some instructios must be followed strictly and that we want as an output a txt file that explains some slides. Then, four general instructions were provided: (1) DO NOT USE POINTS (with this we are trying to make the explanations more real), (2) Explain very easily each of the slides (this instruction could make the podcast to not feel very heavy; this may be useful with advanced topics), (3) Give examples to explain everything (following the structure of a regular class, examples are provided to make students undertand concepts better), and (4) Make it dynamic.
 
-The difference with [**Prompt #2**]() is not huge, since the structure of the prompt changed a little bit a new instuction was included: DO NOT SUMMARIZE. With this, we wanted ChatGPT to not skip slides, since some high-yield information may be lost; we are ensuring that each of the slides (relevant or irrelevant) are checked.
+The difference with [**Prompt #2**](https://github.com/alexgaarciia/SlideCastAI/tree/main/data/Prompt%20%232) is not huge, since the structure of the prompt changed a little bit and a new instuction was included: DO NOT SUMMARIZE. With this, we wanted ChatGPT to not skip slides, since some high-yield information may be lost; we are ensuring that each of the slides (relevant or irrelevant) are checked.
 
+Moving on with [**Prompt #3**](https://github.com/alexgaarciia/SlideCastAI/tree/main/data/Prompt%20%233), we tried to make texts more "human-like" with a new instruction: Do not include titles to introduce topics. Say things a person would say when introducing parts of a presentation (Okay, so now I am going to talk about..., We will continue with...).
 
+Finally, [**Prompt #4**](https://github.com/alexgaarciia/SlideCastAI/tree/main/data/Prompt%20%234) intended to make lectures more dynamic stating real-world applications of the concepts we are trying to explain. With this we are showing students that we study these concepts for a reason.
 
+If we were to check the generated files, we could see that being more specific from prompt to prompt worked. Let's take a look at the table from below:
 
-
-
+|                |  Prompt #1      |  Prompt #2      | Prompt #3       | Prompt #4
+:---------------:|:---------------:|:---------------:|:---------------:|:---------------:
+| Introduction to Machine Learning |  |  |  |  |  |
+| Probability |  |  |  |  |   |
+| Transport Layer |  |  |  |   |  |
+| Fourier series representation of periodic signals |  |  |  |   |  |
