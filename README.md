@@ -32,12 +32,12 @@ Furthermore, we will also take advantage of the free trials of certain TTS produ
             <td align="center">PlayHT</td>
         </tr>
         <tr>
-            <td><a href="https://aws.amazon.com/polly/?nc1=h_ls"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/amazon_polly.png" width="100px"/></a></td>
-            <td><a href="https://lovo.ai/"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/lovo_ai.jpg" width="100px"/></a></td>
-            <td><a href="https://speechify.com/?source=fb-for-mobile&landing_url=https%3A%2F%2Fspeechify.com%2Ftext-to-speech-online%2F&gclid=Cj0KCQiA1rSsBhDHARIsANB4EJYVsoTZmEBFRouCp0CGRgPRlZgA_gvhabvCXzV0afzWh7yU_6pe5LgaAryrEALw_wcB&via=uniteai"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/speechify.png" width="100px"/></a></td>
-            <td><a href="https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZjZvZXlx&ps_xid=eQon6QSl3GhGZR&gsxid=eQon6QSl3GhGZR&gspk=ZjZvZXlx&gclid=Cj0KCQiAv8SsBhC7ARIsALIkVT1JPXIksu6GGM5st_3JbDllOiEmOoKruqvfiIoQCxeby-yFQ7YGh2waArflEALw_wcB"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/murf_ai.png" width="100px"/></a></td>
-            <td><a href="https://elevenlabs.io/?pscd=try.elevenlabs.io&ps_partner_key=YW50b2luZXRhcmRpZjU2NTA&ps_xid=lHCeM4tyg4TpQw&gsxid=lHCeM4tyg4TpQw&gspk=YW50b2luZXRhcmRpZjU2NTA"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/eleven_labs.png" width="100px"/></a></td>
-            <td><a href="https://play.ht/?via=uniteai"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/play_ht.png" width="100px"/></a></td>
+            <td><a href="https://aws.amazon.com/polly/?nc1=h_ls"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/logos/amazon_polly.png" width="100px"/></a></td>
+            <td><a href="https://lovo.ai/"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/logos/lovo_ai.jpg" width="100px"/></a></td>
+            <td><a href="https://speechify.com/?source=fb-for-mobile&landing_url=https%3A%2F%2Fspeechify.com%2Ftext-to-speech-online%2F&gclid=Cj0KCQiA1rSsBhDHARIsANB4EJYVsoTZmEBFRouCp0CGRgPRlZgA_gvhabvCXzV0afzWh7yU_6pe5LgaAryrEALw_wcB&via=uniteai"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/logos/speechify.png" width="100px"/></a></td>
+            <td><a href="https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZjZvZXlx&ps_xid=eQon6QSl3GhGZR&gsxid=eQon6QSl3GhGZR&gspk=ZjZvZXlx&gclid=Cj0KCQiAv8SsBhC7ARIsALIkVT1JPXIksu6GGM5st_3JbDllOiEmOoKruqvfiIoQCxeby-yFQ7YGh2waArflEALw_wcB"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/logos/murf_ai.png" width="100px"/></a></td>
+            <td><a href="https://elevenlabs.io/?pscd=try.elevenlabs.io&ps_partner_key=YW50b2luZXRhcmRpZjU2NTA&ps_xid=lHCeM4tyg4TpQw&gsxid=lHCeM4tyg4TpQw&gspk=YW50b2luZXRhcmRpZjU2NTA"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/logos/eleven_labs.png" width="100px"/></a></td>
+            <td><a href="https://play.ht/?via=uniteai"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/logos/play_ht.png" width="100px"/></a></td>
         </tr>
     </table>
 </div>
@@ -111,19 +111,19 @@ Instructions:
 Once we chose the lectures we wanted to turn into podcasts, we performed the following steps:
 1. Give ChatGPT a prompt:
 <p align = "center">
-   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/initial_instructions.png" width = 600>
+   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/instructions/initial_instructions.png" width = 600>
 </p>
 
 2. Upload a desired document:
 <p align = "center">
-   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/uploading_doc.png" width = 600>
+   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/instructions/uploading_doc.png" width = 600>
 </p>
 
 After uploading a lecture, we would normally expect ChatGPT to give us a link to a **txt file**. These files can be found in the folder [data](https://github.com/alexgaarciia/SlideCastAI/tree/main/data).
 
 3. After finishing with all of the files on which we wanted to try a certain prompt, we would normally indicate ChatGPT that new instructions will be given:
 <p align = "center">
-   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/new_instructions.png" width = 600>
+   <img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/images/instructions/new_instructions.png" width = 600>
 </p>
 
 Afterwards, we would test these file on the TTS systems that we talked about above. Nonetheless, before that, it would be interesting to compare all of the prompts that we tried, all the way from `Prompt #1` to `Prompt #4`. 
