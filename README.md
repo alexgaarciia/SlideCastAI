@@ -19,7 +19,28 @@ In order to carry out this project, we used two libraries (`gTTS`, `pyttsx3`):
 - `pyttsx3`: This is a text-to-speech conversion library in Python that works offline. It interacts with native speech engines on different operating systems.
 
 #### Payment systems
-Furthermore, we will also take advantage of the free trials of certain TTS products: [Amazon Polly](https://aws.amazon.com/polly/?nc1=h_ls), [Lovo AI](https://lovo.ai/), [Speechify](https://speechify.com/?source=fb-for-mobile&landing_url=https%3A%2F%2Fspeechify.com%2Ftext-to-speech-online%2F&gclid=Cj0KCQiA1rSsBhDHARIsANB4EJYVsoTZmEBFRouCp0CGRgPRlZgA_gvhabvCXzV0afzWh7yU_6pe5LgaAryrEALw_wcB&via=uniteai), [Murf](https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZjZvZXlx&ps_xid=eQon6QSl3GhGZR&gsxid=eQon6QSl3GhGZR&gspk=ZjZvZXlx&gclid=Cj0KCQiAv8SsBhC7ARIsALIkVT1JPXIksu6GGM5st_3JbDllOiEmOoKruqvfiIoQCxeby-yFQ7YGh2waArflEALw_wcB), [ElevenLabs](https://elevenlabs.io/?pscd=try.elevenlabs.io&ps_partner_key=YW50b2luZXRhcmRpZjU2NTA&ps_xid=lHCeM4tyg4TpQw&gsxid=lHCeM4tyg4TpQw&gspk=YW50b2luZXRhcmRpZjU2NTA), and [PlayHT](https://play.ht/?via=uniteai). 
+Furthermore, we will also take advantage of the free trials of certain TTS products:
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">Amazon Polly</td>
+            <td align="center">Lovo AI</td>
+            <td align="center">Speechify</td>
+            <td align="center">Murf</td>
+            <td align="center">ElevenLabs</td>
+            <td align="center">PlayHT</td>
+        </tr>
+        <tr>
+            <td><a href="https://aws.amazon.com/polly/?nc1=h_ls"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/amazon_polly.png" width="100px"/></a></td>
+            <td><a href="https://lovo.ai/"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/lovo_ai.jpg" width="100px"/></a></td>
+            <td><a href="https://speechify.com/?source=fb-for-mobile&landing_url=https%3A%2F%2Fspeechify.com%2Ftext-to-speech-online%2F&gclid=Cj0KCQiA1rSsBhDHARIsANB4EJYVsoTZmEBFRouCp0CGRgPRlZgA_gvhabvCXzV0afzWh7yU_6pe5LgaAryrEALw_wcB&via=uniteai"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/speechify.png" width="100px"/></a></td>
+            <td><a href="https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZjZvZXlx&ps_xid=eQon6QSl3GhGZR&gsxid=eQon6QSl3GhGZR&gspk=ZjZvZXlx&gclid=Cj0KCQiAv8SsBhC7ARIsALIkVT1JPXIksu6GGM5st_3JbDllOiEmOoKruqvfiIoQCxeby-yFQ7YGh2waArflEALw_wcB"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/murf_ai.png" width="100px"/></a></td>
+            <td><a href="https://elevenlabs.io/?pscd=try.elevenlabs.io&ps_partner_key=YW50b2luZXRhcmRpZjU2NTA&ps_xid=lHCeM4tyg4TpQw&gsxid=lHCeM4tyg4TpQw&gspk=YW50b2luZXRhcmRpZjU2NTA"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/eleven_labs.png" width="100px"/></a></td>
+            <td><a href="https://play.ht/?via=uniteai"><img src="https://github.com/alexgaarciia/SlideCastAI/blob/main/logos/play_ht.png" width="100px"/></a></td>
+        </tr>
+    </table>
+</div>
 
 
 ## Process
