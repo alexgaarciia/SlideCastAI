@@ -29,7 +29,7 @@ In order to carry out this project, we may follow these steps:
 3. Pass the explanations to multiple Text-To-Speech (TTS) systems.
 4. Compare results.
 
-However, we may also want to test how specific we must be in order to reach an "ideal" explanation. To do so, several promtps will be tested out, each being more specific than the previous one.
+However, we may also want to test how specific we must be in order to reach an "ideal" explanation. To do so, several prompts will be tested out, each being more specific than the previous one.
 
 ### Prompts 
 - Prompt #1:
@@ -123,8 +123,11 @@ Prompt #1      |  Prompt #2      | Prompt #3       | Prompt #4
 Summarized version of the lecture (does not go into too much technical depth). Explains well the basics and provides some examples.  | Contains more concepts from the slides (suitable for deeper understanding of the filed).  | More human-like instructions (feels closer to real lectures) | Adds a focus more practical applications 
 
 #### Comparison of TTS libraries/platforms
-
-
+- Amazon Sally: We could only try a maximum of 3000 characters --> voice does not sound as real as we would like to, allows to download files.
+- LovoAI: Free trial has only 20 minutes of free access --> voice feels more real.
+- Speechify: Free trial allows to convert only 5 documents to audio --> voice feels real.
+- Murf: Only 10 minutes available --> 2500 character limit --> maximum of 10000 characters with the free version --> Very slow but realistic voice.
+- PlayHT: Only 12,500 characters --> allows to download files --> Fast
 
 
 
