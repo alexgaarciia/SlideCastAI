@@ -13,14 +13,11 @@ These kind of systems work in the following way:
 4. `Audio Rendering`: Finally, the so-called waveform is turned into an audio file.
 
 ### Used Text-To-Speech systems
-#### Free systems
 In order to carry out this project, we used two libraries (`gTTS`, `pyttsx3`):
 - `gTTS`: It is a Python library that interfaces with Google Translate's text-to-speech API. It's a simple and easy-to-use tool that converts text into spoken words.
 - `pyttsx3`: This is a text-to-speech conversion library in Python that works offline. It interacts with native speech engines on different operating systems.
 
-#### Payment systems
 Furthermore, we will also take advantage of the free trials of certain TTS products:
-
 <div align="center">
     <table>
         <tr>
