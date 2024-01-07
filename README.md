@@ -22,7 +22,7 @@ Furthermore, we will also take advantage of the free trials of certain TTS produ
     <table>
         <tr>
             <td align="center">Amazon Polly</td>
-            <td align="center">Lovo AI</td>
+            <td align="center">LovoAI</td>
             <td align="center">Speechify</td>
             <td align="center">Murf</td>
             <td align="center">ElevenLabs</td>
